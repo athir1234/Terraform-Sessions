@@ -1,0 +1,10 @@
+sku         = "F1"
+os         = "Windows"
+tag         = ["uat", "bankingapp"]
+planname        = "serviceplan_uat"
+rgname      = "uatrg"
+location    = "East US"
+stgname     = "uatstgaccnt2024"
+accounttier = "Standard"
+rep         = "GRS"
+env = "uat"

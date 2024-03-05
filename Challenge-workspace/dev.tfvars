@@ -1,0 +1,10 @@
+sku      = "F1"
+os      = "Windows"
+tag      = ["dev", "bankingapp"]
+planname     = "serviceplan_dev"
+rgname   = "devrg"
+location = "East US"
+stgname  = "devstgaccnt2024"
+env = "dev"
+accounttier = "Standard"
+rep         = "LRS"

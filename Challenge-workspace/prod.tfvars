@@ -1,0 +1,10 @@
+sku          = "B1"
+os         = "Windows"
+tag         = ["prod", "bankingapp"]
+planname        = "serviceplan_prod"
+rgname      = "prodrg"
+location    = "East US"
+stgname     = "prodstgaccnt2024"
+accounttier = "Standard"
+rep         = "ZRS"
+env = "prod"
